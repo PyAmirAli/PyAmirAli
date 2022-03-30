@@ -20,5 +20,6 @@ Web Design💣
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-(https://visitcount.itsvg.in/api?id=Pyamirali&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Pyamirali&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
