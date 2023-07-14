@@ -1,7 +1,7 @@
 # 💫About Me :
 Python Student 😇
 Loves security 😍
-Web Design💣
+Machine Learning💣
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Py.white) 
