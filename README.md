@@ -1,25 +1,108 @@
-# 💫About Me :
-Python Student 😇
-Loves security 😍
-Machine Learning💣
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Amir%20Ali%20Afshari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Py.white) 
-
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Pyamirali&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pyamirali&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyamirali&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="center">
+🚀 Backend Engineer | Python Developer | Automation & Telegram Systems Engineer
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Pyamirali&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
+## 💡 About Me
 
+I’m a backend developer focused on building **scalable, automated, and production-grade systems**.
+
+I specialize in designing backend architectures for real-world applications including:
+
+- Telegram bots and userbots systems
+- Web automation and scraping engines
+- High-performance REST APIs
+- Distributed task processing systems
+
+I enjoy building systems that are **fast, reliable, and scalable under load**.
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Telegram Bots & Userbots (Telethon, Bot API)
+- ⚙️ Web Automation & Scraping Systems
+- ⚡ Backend Development (FastAPI, Django REST Framework)
+- 🧩 Distributed Systems (RabbitMQ, async workers)
+- 🗄️ Database Design & Optimization
+- 🐳 Containerized Applications (Docker)
+- 🐧 Linux-based development (Fedora user)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,mongodb,redis,docker,linux,git,react" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Scalable backend architectures for automation platforms
+- Telegram SaaS and bot ecosystems
+- Distributed processing systems with queues and workers
+- High-performance API design and optimization
+
+---
+
+## 📌 Highlight Projects
+
+### 🤖 Telegram Automation System
+Advanced system for managing Telegram bots, userbots, messaging workflows, and automation pipelines.
+
+### ⚙️ Distributed Worker System
+Queue-based backend system using RabbitMQ for processing asynchronous tasks at scale.
+
+### 🧠 Web Scraping & Automation Engine
+Automated data extraction system with structured storage and processing pipelines.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PyAmirAli&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyAmirAli&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧭 Philosophy
+
+> "I build backend systems that scale silently, recover automatically, and perform reliably under pressure."
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="https://t.me/pyamirali">
+  <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="https://www.linkedin.com/in/amiraliafshari">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/PyAmirAli">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+</p>
